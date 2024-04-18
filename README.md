@@ -1,0 +1,2 @@
+# Proteus-Electronic-clock
+用的是MASM32编译器，源代码打开这个工程文件点击源代码就可以看到，emu8086编译的exe文件有些bug，Proteus8.6没办法很好的运行，所以建议使用MASM32
